@@ -1,3 +1,5 @@
+st.caption("Developed by Dr. Anjala Beegam, BUMS | Unani Physician")
+
 import streamlit as st
 
 st.set_page_config(page_title=" Temperament Analysis - Dr Anjala", page_icon="🌿")
