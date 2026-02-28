@@ -49,3 +49,6 @@ if st.button("🔒 Reveal My Hidden Temperament"):
     st.warning("Your detailed temperament report will be delivered within 24 hours after payment verification.")
 
     st.success("Thank you for choosing Dr. Anjala Beegam's Unani Analysis 🌿")
+
+st.markdown("---")
+st.caption("© 2026 Dr. Anjala Beegam. All rights reserved.")
